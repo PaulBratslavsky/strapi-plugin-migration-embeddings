@@ -3,7 +3,7 @@ import { PLUGIN_ID } from './pluginId';
 import { Initializer } from './components/Initializer';
 import { PluginIcon } from './components/PluginIcon';
 
-import { EmbeddingsWidget } from './components/embeddings-widget';
+import { EmbeddingsWidget } from './components/EmbeddingsWidget';
 
 export default {
   register(app: any) {

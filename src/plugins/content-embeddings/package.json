@@ -37,6 +37,7 @@
   "dependencies": {
     "@strapi/design-system": "^2.0.0-rc.12",
     "@strapi/icons": "^2.0.0-rc.12",
+    "@uiw/react-md-editor": "^4.0.5",
     "react-intl": "^6.8.4"
   },
   "devDependencies": {
